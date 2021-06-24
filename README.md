@@ -5,5 +5,5 @@
 ![](https://github.com/gtorresmq/spotifydata/blob/main/images/Rplot.png)
 
 <p align="center">
-  <img width="460" height="300" src="file:///C:/Users/Gonzalo/Dropbox/Programaci%C3%B3n/R/Projects/Spotify/github/worldmap.html">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/gtorresmq/spotifydata/main/images/worldmap.html">
 </p>
