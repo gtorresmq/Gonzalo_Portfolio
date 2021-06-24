@@ -3,7 +3,3 @@
 - Estimated the percentage of songs per country which were among the top 200 most streamed ones only nationally.
 
 ![](https://github.com/gtorresmq/spotifydata/blob/main/images/Rplot.png)
-
-<p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/gtorresmq/spotifydata/main/images/worldmap.html">
-</p>
