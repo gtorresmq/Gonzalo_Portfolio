@@ -1,7 +1,7 @@
 # Cross-Country Variability in Music Preferences with R
 
 ## Overview
-- Scraped data from Kworb.net to obtain the top 200 most streamed songs per country on Spotify over the 2013-2021 period.
+- I scraped data from Kworb.net to obtain the top 200 most streamed songs per country on Spotify over the 2013-2021 period.
 - For each country, I estimated which percentage of the top 200 most streamed songs did not reach the top 200 anywhere else.
 
 ## Preliminary findings
