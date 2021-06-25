@@ -12,6 +12,6 @@
 - Spanish- and English-speaking American countries together with Australia and New Zealand are the least idiosyncratic countries in terms of music preferences.
 
 The following figure shows the cross-country variability in music preferences: 
-![](https://github.com/gtorresmq/spotifydata/blob/main/images/Rplot01.png)
+![](https://github.com/gtorresmq/spotifydata/blob/main/images/Rplot02.png)
 
 
